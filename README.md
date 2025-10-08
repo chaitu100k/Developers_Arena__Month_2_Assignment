@@ -76,43 +76,6 @@ Month2_Data_Analysis/
     └── Week8_Eval_Tuning_Report.pdf
 ```
 
----
-
-## ⚙️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-```
-
-2. Navigate to the week folder:
-
-```bash
-cd Month2_Data_Analysis/Week5_EDA
-```
-
-3. Create a virtual environment and install dependencies:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-
-pip install -r requirements.txt
-```
-
-4. Run scripts or open notebooks:
-
-```bash
-python Week5_HandsOn.py
-jupyter notebook Week5_EDA_Notebook.ipynb
-```
-
-5. Repeat for Weeks 6–8.
-
----
-
 ## 📌 Notes
 
 * Each week contains a **client project** for practical application.
